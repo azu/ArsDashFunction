@@ -14,7 +14,7 @@ pod 'ArsDashFunction'
 ArsMin@[@1, @2, @3])// @1
 ArsMax(@[@1, @2, @3])// @3
 
-ArsRange(@1, @3); // @[@1,@2]
+ArsRange(@1, @3); // @[@1,@2,@3]
 ArsRange(@3, @10, @3);// @[@3, @6, @9]
 ```
 
