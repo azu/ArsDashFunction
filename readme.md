@@ -1,6 +1,6 @@
 # ArsDashFunction [![Build Status](https://travis-ci.org/azu/ArsDashFunction.svg)](https://travis-ci.org/azu/ArsDashFunction)
 
-A function functional toolbelt for [azu/ArsScale](https://github.com/azu/ArsScale "azu/ArsScale").
+A functional toolbelt for [azu/ArsScale](https://github.com/azu/ArsScale "azu/ArsScale").
 
 ## Installation
 
